@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey there, I'm Maulik Padsala!
 
-<!--
-**makp007/makp007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space!  
+I'm a **Full-Stack Developer** with a love for building things that just work (and sometimes even look cool).
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack Power-Ups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React ⚛️, Next.js 🚦  
+- **State Management:** Redux 🧠, Zustand 🦦  
+- **Backend:** Node.js 🟩, Express 🚚  
+- **Databases:** MongoDB 🍃, MySQL 🛢️  
+- **Cloud Heroics:** GCP ☁️, AWS 🌩️  
+- **Media Wizardry:** FFmpeg 🎬
+
+## 🕹️ What am I up to?
+- I break stuff so you don’t have to.
+- I fix it so you can break it again.
+- Always learning, forever caffeinated.
+
+## 🌎 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/maulik-padsala-26675614a/)  
+- Or just drop a friendly “Hi” on my issues tab!
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+Thanks for stopping by!  
+May your bugs be minimal and your deployments be green. 🍀
