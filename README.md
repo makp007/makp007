@@ -1,10 +1,9 @@
 # 👋 Hey there, I'm Maulik Padsala!
 
 Welcome to my GitHub space!  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33F747&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Js;Node+Js;MongoDb;Express+Js;Next+Js;Mysql)](https://git.io/typing-svg)
-
 I'm a **Full-Stack Developer** with a love for building things that just work (and sometimes even look cool).
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=200&color=33F747&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Js;Node+Js;MongoDb;Express+Js;Next+Js;Mysql)](https://git.io/typing-svg)
 
 ## 🚀 Tech Stack Power-Ups
 
