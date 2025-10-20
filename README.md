@@ -24,12 +24,7 @@ I'm a **Full-Stack Developer** with a love for building things that just work (a
 - [LinkedIn](https://www.linkedin.com/in/maulik-padsala-26675614a/)  
 - Or just drop a friendly “Hi” on my issues tab!
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
+## Profile Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=makp007&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
