@@ -30,7 +30,7 @@ I'm a **Full-Stack Developer** with a love for building things that just work (a
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=makp007&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=makp007&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
